@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 1111111111111111
 48
+154432
 v1.03
-=======
-111111111111111133
-14321
-v1.03
->>>>>>> branch 'master' of https://github.com/ChenAiShenChuYouFanHua/abc-repo.git
